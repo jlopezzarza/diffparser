@@ -1,0 +1,7 @@
+diff --git a/moviecomparer/production/deployment.json b/moviecomparer/production/deployment.json
+index 02170a0..e4e6799 100644
+--- a/moviecomparer/production/deployment.json
++++ b/moviecomparer/production/deployment.json
+@@ -8 +8 @@
+-            "image": "jlopezzarza/moviecomparer-api:0.3.2",
++            "image": "jlopezzarza/moviecomparer-api:0.2.1",
